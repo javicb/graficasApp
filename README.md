@@ -22,6 +22,10 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
+## Runiing backend and app
+
+Run `npm run dev` to execute the backend and app for 'Donut Http'. [Json-server](https://www.npmjs.com/package/json-server) is assumed to be installed globally.
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
